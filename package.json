@@ -1,0 +1,11 @@
+{
+  "name": "react-workout",
+  "version": "1.0.0",
+  "description": "first example in apress' Introduction to React",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jim O'Keefe jim@jimokeefe.net",
+  "license": "ISC"
+}
